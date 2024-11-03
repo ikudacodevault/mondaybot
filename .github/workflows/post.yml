@@ -28,4 +28,4 @@ jobs:
         mkdir -p ~/.config/toot
         echo $TOOT_CONFIG > ~/.config/toot/config.json
         toot post "monday" \
-          --media ./monday.mp4 --description "undertale-style video of roast chicken going around, leaving a small trail behind. eventually it ends up at a sign which reads: monday." --visibility public
+          --media ./monday.mp4 --description "pixel art animation of roast chicken going around, leaving a small trail behind. eventually it ends up at a sign which reads monday, and goes in the direction it is pointing." --visibility public
