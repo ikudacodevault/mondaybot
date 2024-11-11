@@ -1,4 +1,4 @@
-name: post
+name: uptime
 
 on:
   workflow_dispatch:
